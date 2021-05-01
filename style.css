@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-section{
+    background-color: #f4f4f4;;
+}
+
+.form-wrapper{
+    background-color: white;
+    color: black;
+    
+    width: 30% !important;
+}
+
+.form-floating>.form-control{
+    height: 2.8rem !important;
+}
+
+.form-floating>label{
+    top: -0.25pc !important;
+    font-size: .8rem !important;
+}
+
+.form-text{
+    font-size: .7rem !important;
+}
+
+.btnstyle{
+    background: yellowgreen;
+}
+
+.success{
+    border: 1.5px solid green;
+}
+
+.error{
+    border: 1.5px solid red;
+}
+
+.errortext{
+    color: red;
+}
+
+.message{
+    color: green;
+}
