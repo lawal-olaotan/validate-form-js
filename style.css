@@ -55,3 +55,9 @@
 .btn:focus{
     box-shadow: none !important;
 }
+
+.form-control:focus{
+    box-shadow: none !important;
+    border:1px solid yellowgreen !important;
+}
+
